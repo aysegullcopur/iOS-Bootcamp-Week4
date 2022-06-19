@@ -2,13 +2,17 @@
 # COIN APP
 
 A demo iOS app that shows cryptocurrency prices.
+
 Built with CoinGecko API. 
 
 Architecture concepts:
+
 MVVM
 
 Built with:
--Kingfisher : Asynchronous image downloading and caching.
+
+- Kingfisher : Asynchronous image downloading and caching.
+
 The dependency manager is CocoaPods.
 
 # COIN APP
