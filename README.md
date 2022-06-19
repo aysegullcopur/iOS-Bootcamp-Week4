@@ -5,7 +5,7 @@ A demo iOS app that shows cryptocurrency prices.
 
 Built with CoinGecko API. 
 
-Architecture concepts:
+Architecture Concept:
 
 MVC
 
