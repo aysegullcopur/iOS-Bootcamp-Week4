@@ -1,20 +1,16 @@
-# week-4
+# week-4 
+# COIN APP
 
+A demo iOS app that shows cryptocurrency prices.
+Built with CoinGecko API. 
 
-Kripto paraları gösteren uygulama yazıyoruz. Uygulama içerisinde 2 zorunlu yapı kullanımı var.
+Architecture concepts:
+MVVM
 
-1.Api Fetch,  
+Built with:
+-Kingfisher : Asynchronous image downloading and caching.
+The dependency manager is CocoaPods.
 
-2.UITableView veya UICollectionView kullanımı. 
-
-Derste işlediğimiz diğer yapıları kullanmak opsiyonel/
-
-Herhangi bir api yi kullanmak serbest
-
-
-
-
-
-# Coin App
+# COIN APP
 
 ![alt text](https://user-images.githubusercontent.com/102351754/173906059-e85ee39c-7a67-4ccf-ae1b-f1ecb1fdfd48.png)
