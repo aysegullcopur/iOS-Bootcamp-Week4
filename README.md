@@ -7,7 +7,7 @@ Built with CoinGecko API.
 
 Architecture concepts:
 
-MVVM
+MVC
 
 Built with:
 
